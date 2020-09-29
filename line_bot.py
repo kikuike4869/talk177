@@ -7,7 +7,7 @@ import pya3rt
 app = Flask(__name__)
 
 line_bot_api = LineBotApi(
-    "odLXKRd8qlQQfknRsRSvUOI35dyDe18noHkwQYyGHVM/Ba6it3EsSeZTLTmDJQN7t0p65kemHrddp3zd50miz2Wcog5/gYPMOHduv/ZE/bf3bi7bSqayFXRWRFIkqLrOB3dqfMYXn6m9hlrw1o6a1gdB04t89/1O/w1cDnyilFU=")
+    "J/NdqjOP9XsFGi/HwpPUjr8zYG/67R8muQ7SP0Unh1lVGZWnVje/vQOJ7IRuxi6et0p65kemHrddp3zd50miz2Wcog5/gYPMOHduv/ZE/bd/nwlytCaQ7BKI1ZclyVC+YzUlxc839BuPt58+gxo7qQdB04t89/1O/w1cDnyilFU=")
 handler = WebhookHandler("82e521a6827593de9fdba188f3de8207")
 
 
